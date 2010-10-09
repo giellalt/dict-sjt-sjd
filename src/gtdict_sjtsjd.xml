@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="'sjt'">
+   <e>
+      <lg>
+         <l pos="v">jamm'ed</l>
+         <orth>
+            <variant type="ksdp_cyr">яммед</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">я̄мме</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">pall'ad</l>
+         <orth>
+            <variant type="ksdp_cyr">палляд</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">коаннҍтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lieššɨd</l>
+         <orth>
+            <variant type="ksdp_cyr">ле̄шшыд</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">ле̄шшэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">årred</l>
+         <orth>
+            <variant type="ksdp_cyr">оаррэд</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">ышштэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vɨedted</l>
+         <orth>
+            <variant type="ksdp_cyr">выэдтэд</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">вуэдтӭ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ponnc</l>
+         <orth>
+            <variant type="ksdp_cyr">поннц</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">по̄ннц</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vɨennče</l>
+         <orth>
+            <variant type="ksdp_cyr">выэннче</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">вуэннч</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">siejjp</l>
+         <orth>
+            <variant type="ksdp_cyr">се̄ййп</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">се̄ййп</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lonn't</l>
+         <orth>
+            <variant type="ksdp_cyr">лонньт</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">лоаннҍт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">varr</l>
+         <orth>
+            <variant type="ksdp_cyr">варр</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">вэ̄рр</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">takta</l>
+         <orth>
+            <variant type="ksdp_cyr">такта</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">та̄ххьт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mann'e</l>
+         <orth>
+            <variant type="ksdp_cyr">манне</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">маннҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kɨll'e</l>
+         <orth>
+            <variant type="ksdp_cyr">кылле</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">кӯлль</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kɨdd'ke</l>
+         <orth>
+            <variant type="ksdp_cyr">кыдд'кэ</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">кӯттҍк</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vɨjvvs</l>
+         <orth>
+            <variant type="ksdp_cyr">выйввс</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">вӯйвас</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nɨkčɨm</l>
+         <orth>
+            <variant type="ksdp_cyr">ныкчым</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">нюххчем</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čadc'e</l>
+         <orth>
+            <variant type="ksdp_cyr">чадце</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">ча̄дць</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kullɨd</l>
+         <orth>
+            <variant type="ksdp_cyr">куллыд</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">куллэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tiedt'ed</l>
+         <orth>
+            <variant type="ksdp_cyr">те̄дтед</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">тӣдтӭ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">manna</l>
+         <orth>
+            <variant type="ksdp_cyr">манна</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">ма̄нн</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jɨjj</l>
+         <orth>
+            <variant type="ksdp_cyr">йыйй</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">ыйй</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">peivv'e</l>
+         <orth>
+            <variant type="ksdp_cyr">пэйвве</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">пе̄ййв</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kɨrr'ted</l>
+         <orth>
+            <variant type="ksdp_cyr">кыррьтэд</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">кыррьтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čɨenn'čed</l>
+         <orth>
+            <variant type="ksdp_cyr">чыэнньчед</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">чуэннче</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vɨjjed</l>
+         <orth>
+            <variant type="ksdp_cyr">выййед</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">вӯйе</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mɨrr</l>
+         <orth>
+            <variant type="ksdp_cyr">мырр</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">мӯрр</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">vilgis'</l>
+         <orth>
+            <variant type="ksdp_cyr">вилгись</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="a">вӣллкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">ruč'kes'</l>
+         <orth>
+            <variant type="ksdp_cyr">ручькесь</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="a">руччкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pro">pɨgk</l>
+         <orth>
+            <variant type="ksdp_cyr">пыгк</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="pro">пугк</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kunn</l>
+         <orth>
+            <variant type="ksdp_cyr">кунн</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">кунн</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čiejjve</l>
+         <orth>
+            <variant type="ksdp_cyr">че̄ййве</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">чуэййв</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">šurr</l>
+         <orth>
+            <variant type="ksdp_cyr">шурр</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="a">шӯрр</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">čahpɨs'</l>
+         <orth>
+            <variant type="ksdp_cyr">чаһпысь</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="a">чоаһпэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rann'te</l>
+         <orth>
+            <variant type="ksdp_cyr">ранньтэ</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">раннҍт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vɨjj</l>
+         <orth>
+            <variant type="ksdp_cyr">выйй</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">вӯйй</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">kallm</l>
+         <orth>
+            <variant type="ksdp_cyr">каллм</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="a">кэлмас</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pienɨj</l>
+         <orth>
+            <variant type="ksdp_cyr">пе̄ный</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">пе̄ннэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">koš'kes'</l>
+         <orth>
+            <variant type="ksdp_cyr">кошькэсь</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="a">коашшьк</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piellje</l>
+         <orth>
+            <variant type="ksdp_cyr">пе̄лльйе</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">пе̄лльй</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jemm'ne</l>
+         <orth>
+            <variant type="ksdp_cyr">йеммьнэ</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">еммьнэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kannc</l>
+         <orth>
+            <variant type="ksdp_cyr">каннц</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">кэ̄ннц</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">toll</l>
+         <orth>
+            <variant type="ksdp_cyr">толл</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">то̄лл</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jill'ke</l>
+         <orth>
+            <variant type="ksdp_cyr">йиллькэ</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">ю̄лльк</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">šuvv</l>
+         <orth>
+            <variant type="ksdp_cyr">шувв</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="a">шӣг</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vɨpp</l>
+         <orth>
+            <variant type="ksdp_cyr">выпп</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">вӯппт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kidt</l>
+         <orth>
+            <variant type="ksdp_cyr">кидт</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">кӣдт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vɨejjve</l>
+         <orth>
+            <variant type="ksdp_cyr">выэййвэ</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">вуеййв</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čierr've</l>
+         <orth>
+            <variant type="ksdp_cyr">че̄ррьвэ</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">чуэррьв</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">pakks</l>
+         <orth>
+            <variant type="ksdp_cyr">паккс</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="a">поакас</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pro">monn</l>
+         <orth>
+            <variant type="ksdp_cyr">монн</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="pro">мунн</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puvvl</l>
+         <orth>
+            <variant type="ksdp_cyr">пуввл</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">пӯллв</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lasst</l>
+         <orth>
+            <variant type="ksdp_cyr">ласст</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">лэ̄сст</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">kugkɨs'</l>
+         <orth>
+            <variant type="ksdp_cyr">кугкысь</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="a">куһкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">erstoll'a</l>
+         <orth>
+            <variant type="ksdp_cyr">эрстолля</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">оалм-олма</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lɨehke</l>
+         <orth>
+            <variant type="ksdp_cyr">лыэһке</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">па̄һкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">namm</l>
+         <orth>
+            <variant type="ksdp_cyr">намм</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">нэ̄мм</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">niškamant</l>
+         <orth>
+            <variant type="ksdp_cyr">нишкамант</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">нышшьк</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">odt</l>
+         <orth>
+            <variant type="ksdp_cyr">одт</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="a">о̄дт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">niunn'</l>
+         <orth>
+            <variant type="ksdp_cyr">ню̄ннь</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">нюннҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">akt</l>
+         <orth>
+            <variant type="ksdp_cyr">акт</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="num">э̄ххт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">olmɨj</l>
+         <orth>
+            <variant type="ksdp_cyr">олмый</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">олма</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">abb're</l>
+         <orth>
+            <variant type="ksdp_cyr">аббьрэ</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">аббьр</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">roškes'</l>
+         <orth>
+            <variant type="ksdp_cyr">рошкэсь</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="a">рӯппсэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">endas</l>
+         <orth>
+            <variant type="ksdp_cyr">эндас</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">вуэннҍт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">jorbɨs'</l>
+         <orth>
+            <variant type="ksdp_cyr">ёрбысь</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="a">ёрпас</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vɨns</l>
+         <orth>
+            <variant type="ksdp_cyr">вынс</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">вунтас</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lɨšš'ke</l>
+         <orth>
+            <variant type="ksdp_cyr">лышшькэ</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">лышшьк</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">udc'</l>
+         <orth>
+            <variant type="ksdp_cyr">удць</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="a">удць</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sɨvv</l>
+         <orth>
+            <variant type="ksdp_cyr">сывв</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">сувв</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tass'ta</l>
+         <orth>
+            <variant type="ksdp_cyr">тассьта</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">та̄сс'т</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kiedd'ke</l>
+         <orth>
+            <variant type="ksdp_cyr">ке̄ддькэ</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">кеддҍк</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pro">tadta</l>
+         <orth>
+            <variant type="ksdp_cyr">тадта</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="pro">та̄дт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kadc'ked</l>
+         <orth>
+            <variant type="ksdp_cyr">кадцькэд</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">ка̄ццькэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">pɨell'ted</l>
+         <orth>
+            <variant type="ksdp_cyr">пыэлльтэд</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">пӯлле</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">pɨedted</l>
+         <orth>
+            <variant type="ksdp_cyr">пыэдтэд</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">пуэдтӭ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jugkid</l>
+         <orth>
+            <variant type="ksdp_cyr">югкид</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">югкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">porrɨd</l>
+         <orth>
+            <variant type="ksdp_cyr">поррыд</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">по̄ррэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ann'ted</l>
+         <orth>
+            <variant type="ksdp_cyr">анньтэд</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">аннҍтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ciell'ked</l>
+         <orth>
+            <variant type="ksdp_cyr">це̄ллькэд</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">це̄ӆӆькэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ujjned</l>
+         <orth>
+            <variant type="ksdp_cyr">уййнэд</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="v">уййнэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kɨkt</l>
+         <orth>
+            <variant type="ksdp_cyr">кыкт</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="n">кӯххт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pro">mii</l>
+         <orth>
+            <variant type="ksdp_cyr">мӣ</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="pro">мӣ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pro">kie</l>
+         <orth>
+            <variant type="ksdp_cyr">ке̄</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="pro">ке̄</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pro">tonn</l>
+         <orth>
+            <variant type="ksdp_cyr">тонн</variant>
+         </orth>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="'sjd'" pos="pro">то̄нн</t>
+         </tg>
+      </mg>
+   </e>
+</r>
